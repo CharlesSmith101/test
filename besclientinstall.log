@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=BigFix Enterprise Client
+Version=7.1.1.315
+Company=BigFix, Inc.
+Lang=0009
